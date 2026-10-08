@@ -1,7 +1,6 @@
 .root {
 
     -fx-background-color: #121212;
-
     -fx-font-family: "Segoe UI", Arial, sans-serif;
 
 }
@@ -19,11 +18,8 @@
 .title-label {
 
     -fx-font-size: 26px;
-
     -fx-font-weight: bold;
-
     -fx-text-fill: #FFFFFF;
-
     -fx-padding: 0 0 20 0;
 
 }
@@ -33,9 +29,7 @@
 .header-label {
 
     -fx-font-size: 20px;
-
     -fx-font-weight: bold;
-
     -fx-text-fill: #D32F2F;
 
 }
@@ -45,25 +39,15 @@
 .menu-button {
 
     -fx-background-color: #1e1e1e;
-
     -fx-text-fill: #FFFFFF;
-
     -fx-font-size: 16px;
-
     -fx-font-weight: bold;
-
     -fx-pref-width: 300px;
-
     -fx-pref-height: 50px;
-
     -fx-background-radius: 8;
-
     -fx-border-color: #333333;
-
     -fx-border-radius: 8;
-
     -fx-border-width: 1;
-
     -fx-cursor: hand;
 
 }
@@ -73,7 +57,6 @@
 .menu-button:hover {
 
     -fx-background-color: #D32F2F;
-
     -fx-border-color: #D32F2F;
 
 }
@@ -83,17 +66,11 @@
 .action-button {
 
     -fx-background-color: #D32F2F;
-
     -fx-text-fill: #FFFFFF;
-
     -fx-font-size: 14px;
-
     -fx-font-weight: bold;
-
     -fx-background-radius: 4;
-
     -fx-padding: 8 15 8 15;
-
     -fx-cursor: hand;
 
 }
@@ -111,9 +88,7 @@
 .combo-box {
 
     -fx-background-color: #333333;
-
     -fx-background-radius: 4;
-
     -fx-text-fill: #FFFFFF;
 
 }
@@ -123,7 +98,6 @@
 .combo-box .list-cell {
 
     -fx-text-fill: #FFFFFF;
-
     -fx-background-color: #333333;
 
 }
@@ -149,9 +123,7 @@
 .table-view {
 
     -fx-background-color: #1a1a1a;
-
     -fx-border-color: #333333;
-
     -fx-border-width: 1;
 
 }
@@ -177,7 +149,6 @@
 .table-view .column-header .label {
 
     -fx-text-fill: #D32F2F;
-
     -fx-font-weight: bold;
 
 }
@@ -187,11 +158,8 @@
 .table-row-cell {
 
     -fx-background-color: #1e1e1e;
-
     -fx-text-fill: #FFFFFF;
-
     -fx-border-color: transparent transparent #333333 transparent;
-
     -fx-border-width: 1;
 
 }
