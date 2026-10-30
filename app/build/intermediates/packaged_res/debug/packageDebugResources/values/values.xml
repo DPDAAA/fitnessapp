@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_background">#121212</color>
+    <color name="black_surface">#1E1E1E</color>
+    <color name="black_surface_light">#2C2C2C</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="dark_red_light">#B71C1C</color>
+    <color name="text_muted">#777777</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="app_name">fitnessapp</string>
+    <string name="brand_badge">Fitness Pro</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_history">Training History</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_start_workout">Start Workout</string>
+    <string name="dialog_add_exercise_title">New Exercise</string>
+    <string name="hint_exercise_name">Exercise Name</string>
+    <string name="hint_muscle_group">Muscle Group</string>
+    <string name="hint_reps">Reps</string>
+    <string name="hint_sets">Sets</string>
+    <string name="hint_weight">Weight (kg)</string>
+    <string name="main_greeting_subtitle">Ready for your workout?</string>
+    <string name="main_greeting_title">Hello,</string>
+    <string name="main_status_label">Current Status</string>
+    <string name="main_status_ready">Ready</string>
+    <string name="rest_day_label">Rest Day</string>
+    <string name="title_activity_history">Training History</string>
+    <string name="title_activity_select_day">Select Training Day</string>
+    <string name="title_activity_workout_overview">Workout Overview</string>
+    <string name="view_routine">View Routine</string>
+    <string name="workout_day_label">Workout Day</string>
+    <style name="Base.Theme.Fitnessapp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Fitnessapp" parent="Base.Theme.Fitnessapp"/>
+</resources>

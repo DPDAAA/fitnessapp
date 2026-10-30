@@ -1,0 +1,8 @@
+com.example.fitnessapp-pngs-0 D:\Projekte\fitnessapp\app\build\generated\res\pngs\debug
+com.example.fitnessapp-updated_navigation_xml-1 D:\Projekte\fitnessapp\app\build\generated\updated_navigation_xml\debug
+com.example.fitnessapp-packageDebugResources-2 D:\Projekte\fitnessapp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fitnessapp-packageDebugResources-3 D:\Projekte\fitnessapp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fitnessapp-debug-4 D:\Projekte\fitnessapp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.fitnessapp-debug-5 D:\Projekte\fitnessapp\app\src\debug\res
+com.example.fitnessapp-main-6 D:\Projekte\fitnessapp\app\src\main\res
+gradleHome-0 C:\Users\marku\.gradle

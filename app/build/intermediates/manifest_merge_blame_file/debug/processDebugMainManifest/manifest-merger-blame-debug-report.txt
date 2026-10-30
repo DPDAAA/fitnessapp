@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fitnessapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:5:5-65
+11-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:5:22-63
+12
+13    <permission
+13-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.fitnessapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.fitnessapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:7:5-47:19
+20        android:allowBackup="true"
+20-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.18.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\e1376e87ad9a6dfc021ab2ed60508724\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+24-->INJECTED
+25        android:fullBackupContent="@xml/backup_rules"
+25-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:12:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:14:9-35
+30        android:theme="@style/Theme.Fitnessapp" >
+30-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:15:9-48
+31        <activity
+31-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:16:9-25:20
+32            android:name="com.example.fitnessapp.MainActivity"
+32-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:17:13-41
+33            android:exported="true"
+33-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:18:13-36
+34            android:windowSoftInputMode="adjustResize" >
+34-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:19:13-55
+35            <intent-filter>
+35-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:20:13-24:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:21:17-69
+36-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:21:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:23:17-77
+38-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:23:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:27:9-126
+42            android:name="com.example.fitnessapp.PresetDetailActivity"
+42-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:27:19-55
+43            android:exported="false"
+43-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:27:56-80
+44            android:windowSoftInputMode="adjustResize" />
+44-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:27:81-123
+45        <activity
+45-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:28:9-128
+46            android:name="com.example.fitnessapp.SelectExerciseActivity"
+46-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:28:19-57
+47            android:exported="false"
+47-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:28:58-82
+48            android:windowSoftInputMode="adjustResize" />
+48-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:28:83-125
+49        <activity
+49-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:29:9-127
+50            android:name="com.example.fitnessapp.ActiveWorkoutActivity"
+50-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:29:19-56
+51            android:exported="false"
+51-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:29:57-81
+52            android:windowSoftInputMode="adjustResize" />
+52-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:29:82-124
+53        <activity
+53-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:30:9-127
+54            android:name="com.example.fitnessapp.SessionDetailActivity"
+54-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:30:19-56
+55            android:exported="false"
+55-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:30:57-81
+56            android:windowSoftInputMode="adjustResize" />
+56-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:30:82-124
+57        <activity
+57-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:32:9-35:58
+58            android:name="com.example.fitnessapp.SelectDayActivity"
+58-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:33:13-46
+59            android:exported="false"
+59-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:34:13-37
+60            android:parentActivityName="com.example.fitnessapp.MainActivity" />
+60-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:35:13-55
+61        <activity
+61-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:37:9-41:58
+62            android:name="com.example.fitnessapp.WorkoutOverviewActivity"
+62-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:38:13-52
+63            android:exported="false"
+63-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:39:13-37
+64            android:parentActivityName="com.example.fitnessapp.SelectDayActivity"
+64-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:40:13-60
+65            android:windowSoftInputMode="adjustResize" />
+65-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:41:13-55
+66        <activity
+66-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:43:9-46:58
+67            android:name="com.example.fitnessapp.HistoryActivity"
+67-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:44:13-44
+68            android:exported="false"
+68-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:45:13-37
+69            android:parentActivityName="com.example.fitnessapp.MainActivity" />
+69-->D:\Projekte\fitnessapp\app\src\main\AndroidManifest.xml:46:13-55
+70
+71        <provider
+71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+72            android:name="androidx.startup.InitializationProvider"
+72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+73            android:authorities="com.example.fitnessapp.androidx-startup"
+73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+74            android:exported="false" >
+74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+75            <meta-data
+75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+77                android:value="androidx.startup" />
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\cbc291c0fbbf56c426dfdce9a221c786\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+78            <meta-data
+78-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\marku\.gradle\caches\9.6.0\transforms\f9bd38d34590bea0216e053aa2ad824e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+79-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\marku\.gradle\caches\9.6.0\transforms\f9bd38d34590bea0216e053aa2ad824e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+80                android:value="androidx.startup" />
+80-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\marku\.gradle\caches\9.6.0\transforms\f9bd38d34590bea0216e053aa2ad824e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+81            <meta-data
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+83                android:value="androidx.startup" />
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+84        </provider>
+85
+86        <receiver
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+87            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+88            android:directBootAware="false"
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+89            android:enabled="true"
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+90            android:exported="true"
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+91            android:permission="android.permission.DUMP" >
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+93                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+96                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+97            </intent-filter>
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+99                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+102                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\marku\.gradle\caches\9.6.0\transforms\31de7ea377e6dc352ce434cfe4bd26cb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+103            </intent-filter>
+104        </receiver>
+105    </application>
+106
+107</manifest>

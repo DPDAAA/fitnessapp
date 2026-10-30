@@ -1,0 +1,5 @@
+com.example.fitnessapp.test.app-updated_navigation_xml-0 D:\Projekte\fitnessapp\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.fitnessapp.test.app-packageDebugAndroidTestResources-1 D:\Projekte\fitnessapp\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.fitnessapp.test.app-packageDebugAndroidTestResources-2 D:\Projekte\fitnessapp\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.fitnessapp.test.app-debugAndroidTest-3 D:\Projekte\fitnessapp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\marku\.gradle

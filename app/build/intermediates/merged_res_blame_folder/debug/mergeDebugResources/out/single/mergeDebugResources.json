@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_active_workout_placeholder.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_active_workout_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_stats.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_select_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_select_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_volume.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_bg_rounded_chip.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\bg_rounded_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_select_day.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_select_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.fitnessapp-debug-40:/layout_item_calendar_day.xml.flat",
+        "source": "com.example.fitnessapp-main-42:/layout/item_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_active_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_active_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_workout_overview.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_workout_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_history_session.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_history_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_session_detail_set.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_session_detail_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_drag.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_drag.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_dialog_multi_session.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\dialog_multi_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_progress_entry.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_progress_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "com.example.fitnessapp-debug-40:/layout_dialog_create_exercise.xml.flat",
+        "source": "com.example.fitnessapp-main-42:/layout/dialog_create_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_stats_muscle.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_stats_muscle.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_exercise_progress.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_exercise_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_dialog_create_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\dialog_create_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_active_set.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_active_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_preset_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_preset_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_training.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_training.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_history.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_training_day.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_training_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_preset_detail.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_preset_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_preset.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_preset.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_layout_stats_overview.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\layout_stats_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_layout_stats_overview_advanced.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\layout_stats_overview_advanced.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_exercise_progress.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_exercise_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_active_workout.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_active_workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_plan_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_plan_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_session_detail_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_session_detail_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_progress_selection.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_progress_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_stats_weekly.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_stats_weekly.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_muscle.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_muscle.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_dialog_add_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\dialog_add_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_layout_progress_chart.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\layout_progress_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_progress_selection.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_progress_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_fragment_stats_overview.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\fragment_stats_overview.xml"
+    },
+    {
+        "merged": "com.example.fitnessapp-debug-40:/layout_spinner_item_muscle.xml.flat",
+        "source": "com.example.fitnessapp-main-42:/layout/spinner_item_muscle.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_layout_stats_chart.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\layout_stats_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_activity_session_detail.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\activity_session_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_trained_exercise.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_trained_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-debug-40:\\layout_item_calendar_day.xml.flat",
+        "source": "C:\\Users\\marku\\.gradle\\daemon\\9.6.0\\com.example.fitnessapp-main-42:\\layout\\item_calendar_day.xml"
+    },
+    {
+        "merged": "com.example.fitnessapp-debug-40:/layout_spinner_dropdown_item_muscle.xml.flat",
+        "source": "com.example.fitnessapp-main-42:/layout/spinner_dropdown_item_muscle.xml"
+    }
+]
