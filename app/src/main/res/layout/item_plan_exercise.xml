@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="6dp"
+    app:cardBackgroundColor="@color/black_surface"
+    app:cardCornerRadius="@dimen/card_corner_radius"
+    app:strokeWidth="0dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_exercise_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bench Press"
+            android:textColor="@color/text_primary"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_muscle_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_exercise_name"
+            android:text="Chest"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_muscle_group"
+            android:orientation="horizontal"
+            android:layout_marginTop="12dp">
+
+            <TextView
+                android:id="@+id/tv_sets_reps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3 Sets x 10 Reps"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:background="@drawable/bg_rounded_chip"
+                android:paddingHorizontal="8dp"
+                android:paddingVertical="4dp"/>
+
+            <TextView
+                android:id="@+id/tv_weight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="80 kg"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:background="@drawable/bg_rounded_chip"
+                android:paddingHorizontal="8dp"
+                android:paddingVertical="4dp"
+                android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/btn_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:src="@android:drawable/ic_menu_delete"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="8dp"
+            app:tint="@color/text_secondary"/>
+
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>

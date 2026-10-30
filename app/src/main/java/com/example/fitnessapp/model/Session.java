@@ -1,41 +1,38 @@
 package com.example.fitnessapp.model;
 
-import java.time.LocalDate;
-import java.time.LocalTime;
-
 public class Session {
+    public static final int STATUS_ACTIVE = 0;
+    public static final int STATUS_COMPLETED = 1;
+
     private long id;
-    private LocalDate date;
-    private LocalTime startzeit;
-    private LocalTime endzeit;
+    private Long presetId; // Can be null
+    private String startTime;
+    private String endTime; // Can be null while active
+    private int status;
 
-    public Session() {
-        this.date = LocalDate.now();
-        this.startzeit = LocalTime.now();
-        this.endzeit = LocalTime.now();
-    }
-
-    public long getId() {
-        return this.id;
-    }
-
-    public void setId(long id) {
+    public Session(long id, Long presetId, String startTime, String endTime, int status) {
         this.id = id;
+        this.presetId = presetId;
+        this.startTime = startTime;
+        this.endTime = endTime;
+        this.status = status;
     }
 
-    public LocalDate getDate() {
-        return this.date;
+    public Session(Long presetId, String startTime, String endTime, int status) {
+        this.presetId = presetId;
+        this.startTime = startTime;
+        this.endTime = endTime;
+        this.status = status;
     }
 
-    public LocalTime getStartZeit() {
-        return this.startzeit;
-    }
-
-    public LocalTime getEndZeit() {
-        return this.endzeit;
-    }
-
-    public void setEndZeit() {
-        this.endzeit = LocalTime.now();
-    }
+    public long getId() { return id; }
+    public void setId(long id) { this.id = id; }
+    public Long getPresetId() { return presetId; }
+    public void setPresetId(Long presetId) { this.presetId = presetId; }
+    public String getStartTime() { return startTime; }
+    public void setStartTime(String startTime) { this.startTime = startTime; }
+    public String getEndTime() { return endTime; }
+    public void setEndTime(String endTime) { this.endTime = endTime; }
+    public int getStatus() { return status; }
+    public void setStatus(int status) { this.status = status; }
 }

@@ -2,10 +2,12 @@
 <resources>
     <color name="black_background">#121212</color>
     <color name="black_surface">#1E1E1E</color>
+    <color name="black_surface_light">#2C2C2C</color>
 
     <color name="dark_red">#8B0000</color>
     <color name="dark_red_light">#B71C1C</color>
 
     <color name="text_primary">#FFFFFF</color>
     <color name="text_secondary">#AAAAAA</color>
+    <color name="text_muted">#777777</color>
 </resources>

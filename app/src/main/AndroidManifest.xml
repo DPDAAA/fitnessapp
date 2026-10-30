@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -21,6 +23,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".PresetDetailActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".SelectExerciseActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".ActiveWorkoutActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".SessionDetailActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+
+        <activity
+            android:name=".SelectDayActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".WorkoutOverviewActivity"
+            android:exported="false"
+            android:parentActivityName=".SelectDayActivity"
+            android:windowSoftInputMode="adjustResize" />
+
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
